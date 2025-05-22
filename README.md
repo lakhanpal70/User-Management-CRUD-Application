@@ -17,16 +17,16 @@ Styled with **Tailwind CSS** and custom CSS for a clean, responsive UI.
 ## 🖼️ Screenshots
 
 ### Home Page - Create User  
-![Create User](./images/create-user.png)
+![Create User]([./images/create-user.png](https://github.com/lakhanpal70/User-Management-CRUD-Application/blob/7a289b0392abde045d0af65364729e8f4abfdce6/user%20created.jpg))
 
 ### All Users Page  
-![All Users](./images/read-users.png)
+![All Users]([./images/read-users.png](https://github.com/lakhanpal70/User-Management-CRUD-Application/blob/7a289b0392abde045d0af65364729e8f4abfdce6/All%20User.jpg))
 
 ### Edit User Page  
-![Edit User](./images/edit-user.png)
+![Edit User]([./images/edit-user.png](https://github.com/lakhanpal70/User-Management-CRUD-Application/blob/7a289b0392abde045d0af65364729e8f4abfdce6/edit%20user.jpg))
 
 ### MongoDB Database Sample  
-![Database Sample](./images/database-sample.png)
+![Database Sample]([./images/database-sample.png](https://github.com/lakhanpal70/User-Management-CRUD-Application/blob/7a289b0392abde045d0af65364729e8f4abfdce6/databsase.jpg))
 
 ---
 
