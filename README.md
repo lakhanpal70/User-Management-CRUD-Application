@@ -57,3 +57,6 @@ Styled with **Tailwind CSS** and custom CSS for a clean, responsive UI.
 1. Clone the repo:  
 ```bash
 git clone https://github.com/lakhanpal70/User-Management-CRUD-Application.git
+
+
+Created by Lakhan Pal
